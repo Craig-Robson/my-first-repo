@@ -1,2 +1,2 @@
 # my-first-repo
-Testingh GitHub
+Testingh GitHub. OpenCLIM workshop.
